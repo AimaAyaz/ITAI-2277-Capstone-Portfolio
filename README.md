@@ -4,6 +4,39 @@
 
 ---
 
+## 📁 Repository Structure
+
+```markdown
+ITAI-2277-Capstone-Portfolio/
+│
+├── Phase01_Project_Proposal/
+│   ├── Phase 01 Project Proposal.pptx
+│   └── README.md
+│
+├── Phase02_Data_Preprocessing/
+│   ├── Phase_02_DataPipelineAndExploratoryAnalysis_ITAI_2277-1 (1).ipynb
+│   └── README.md
+│
+├── Phase03_Model_Development/
+│   ├── Phase_03_Model_Implementation_ITAI_2277.ipynb
+│   └── README.md
+│
+├── Phase04_Integrated_System_Prototype/
+│   └── README.md
+│
+├── Phase05_Final_Presentation/
+│   ├── Capstone Final Presentation.pptx
+│   └── README.md
+└──
+
+```
+Each phase contains:
+- All deliverables submitted for that stage  
+- A dedicated README summarizing goals, tasks completed, and outcomes  
+- Supporting files such as PPTs, PDFs, or code snapshots  
+
+---
+
 ## 📌 **Project Overview**
 Illness Detection is an AI‑powered pre‑screening system designed to identify potentially sick individuals **before they enter shared environments** such as classrooms, offices, and public spaces.
 
@@ -95,3 +128,11 @@ Each phase has its own folder and README.
 ## 📬 **Contact**
 For questions or collaboration:  
 **w216981450@student.hccs.edu**
+
+---
+
+## 👤 Author
+**Aima Ayaz**  
+
+AI Student • ML Engineer in Training  
+Houston, TX
