@@ -9,6 +9,10 @@
 ```markdown
 ITAI-2277-Capstone-Portfolio/
 │
+├── Individual Portfolio Presentation/
+│   ├── Pf_AimaAyaz_ITAI_2277.pdf
+│   └── README.md
+│
 ├── Phase01_Project_Proposal/
 │   ├── Phase 01 Project Proposal.pptx
 │   └── README.md
