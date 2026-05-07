@@ -37,7 +37,7 @@ ITAI-2277-Capstone-Portfolio/
 Each phase contains:
 - All deliverables submitted for that stage  
 - A dedicated README summarizing goals, tasks completed, and outcomes  
-- Supporting files such as PPTs, PDFs, or code snapshots  
+- Supporting files such as PPTs, PDFs, or ipynb. notebooks  
 
 ---
 
