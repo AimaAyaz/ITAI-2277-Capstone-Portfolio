@@ -1,6 +1,7 @@
 # **Illness Detection – AI‑Powered Pre‑Screening System**  
 **Capstone Project – ITAI 2277 (2026)**  
 **Team Members:** Aima Ayaz • Trevon Woods • Waseem Basit • Mohammed Farooq Abdullah
+**This is an INDIVIDUAL portfolio for Aima Ayaz**
 
 ---
 
